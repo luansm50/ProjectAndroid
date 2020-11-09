@@ -8,7 +8,44 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:251414681919:android:eb0ad8b3960ef329489b8a",
+        "mobilesdk_app_id": "1:251414681919:android:6e2cd176c280ddb2489b8a",
+        "android_client_info": {
+          "package_name": "com.cast.test.cadastro.curso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251414681919-htksuj0ig1428vn16d94esssmsaejcbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cast.test.cadastro.curso",
+            "certificate_hash": "e7328e112125bc21dd9f2ad7b7031d8e0437ee2c"
+          }
+        },
+        {
+          "client_id": "251414681919-on5qtfc7i3oj93otvfhts7ppii6f9r60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZp1deFdb-dMSK1TMFi7xgpVjiCvhb_j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251414681919-on5qtfc7i3oj93otvfhts7ppii6f9r60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251414681919:android:c2393af3cbffbe24489b8a",
         "android_client_info": {
           "package_name": "com.castgroup.projeto.lm.cadastrodecursos"
         }
