@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251414681919",
+    "firebase_url": "https://cadastrodecurso.firebaseio.com",
+    "project_id": "cadastrodecurso",
+    "storage_bucket": "cadastrodecurso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251414681919:android:eb0ad8b3960ef329489b8a",
+        "android_client_info": {
+          "package_name": "com.castgroup.projeto.lm.cadastrodecursos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251414681919-l2i6a1l9rnqvi7ujm2h0cmpmklicso4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.castgroup.projeto.lm.cadastrodecursos",
+            "certificate_hash": "b4fdeffa1bf0cf4a51fe5f35f8c41e85903fc2fe"
+          }
+        },
+        {
+          "client_id": "251414681919-on5qtfc7i3oj93otvfhts7ppii6f9r60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZp1deFdb-dMSK1TMFi7xgpVjiCvhb_j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251414681919-on5qtfc7i3oj93otvfhts7ppii6f9r60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
