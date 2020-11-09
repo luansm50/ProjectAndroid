@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">CadastroDeCursos</string>
-    <string name="adicionar_curso">Adicionar Curso</string>
-    <string name="descri_ao_do_assunto">Descriçao do assunto</string>
-    <string name="data_de_termino">Data de Termino</string>
-    <string name="data_de_inicio">Data de Inicio</string>
-    <string name="quantidade_de_alunos_por_turma">Quantidade de Alunos por Turma</string>
-</resources>
