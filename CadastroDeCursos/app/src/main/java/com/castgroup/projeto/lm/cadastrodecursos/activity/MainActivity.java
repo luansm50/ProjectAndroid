@@ -78,14 +78,11 @@ public class MainActivity extends AppCompatActivity {
         String textoEmail = campoEmail.getText().toString();
         String textoSenha = campoSenha.getText().toString();
 
-//        if(validaCampos(textoEmail, textoSenha))
-//        {
+
         usuario = new Usuario();
         usuario.setEmail(textoEmail);
         usuario.setSenha(textoSenha);
         validarLogin(usuario);
-
-//        }
     }
 
     public void validarLogin(Usuario usuario)

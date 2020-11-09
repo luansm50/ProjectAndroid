@@ -13,7 +13,7 @@ import static org.junit.Assert.assertEquals;
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
-public class ExampleUnitTest {
+public class DataValidateTest {
     @Test
     public void addition_isCorrect() {
         assertEquals(true, ValidateDate.validateDate("20/09/2020"));

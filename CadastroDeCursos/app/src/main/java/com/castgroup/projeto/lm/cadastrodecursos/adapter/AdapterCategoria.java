@@ -11,7 +11,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.castgroup.projeto.lm.cadastrodecursos.R;
 import com.castgroup.projeto.lm.cadastrodecursos.model.Categoria;
-import com.castgroup.projeto.lm.cadastrodecursos.model.Curso;
 
 import java.text.SimpleDateFormat;
 import java.util.List;

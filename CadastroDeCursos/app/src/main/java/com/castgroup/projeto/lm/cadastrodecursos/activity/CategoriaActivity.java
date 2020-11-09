@@ -13,10 +13,8 @@ import android.widget.AdapterView;
 
 import com.castgroup.projeto.lm.cadastrodecursos.R;
 import com.castgroup.projeto.lm.cadastrodecursos.adapter.AdapterCategoria;
-import com.castgroup.projeto.lm.cadastrodecursos.adapter.AdapterCurso;
 import com.castgroup.projeto.lm.cadastrodecursos.config.ConfiguracaoFirebase;
 import com.castgroup.projeto.lm.cadastrodecursos.model.Categoria;
-import com.castgroup.projeto.lm.cadastrodecursos.model.Curso;
 import com.castgroup.projeto.lm.cadastrodecursos.utils.RecyclerItemClickListener;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
